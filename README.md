@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Frameworks**
 
-- 👨‍💻 All of my projects are available at [iyanuoluwa-portfolio.netlify.app](iyanuoluwa-portfolio.netlify.app)
+- 👨‍💻 All of my projects are available at [https://adeyoolaiyanuoluwas-portfolio.vercel.app/](https://adeyoolaiyanuoluwas-portfolio.vercel.app/)
 
 - 💬 Ask me about **react**
 
