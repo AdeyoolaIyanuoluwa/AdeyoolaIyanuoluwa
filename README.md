@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/ade_wumi_" target="blank"><img src="https://img.shields.io/twitter/follow/ade_wumi_?logo=twitter&style=for-the-badge" alt="ade_wumi_" /></a> </p>
 
-- 🔭 I’m currently working on **Metablog**
-
 - 🌱 I’m currently learning **Frameworks**
 
 - 👨‍💻 All of my projects are available at [https://adeyoolaiyanuoluwas-portfolio.vercel.app/](https://adeyoolaiyanuoluwas-portfolio.vercel.app/)
